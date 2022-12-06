@@ -2778,9 +2778,9 @@ decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
@@ -3881,6 +3881,11 @@ gh-pages@^2.0.1:
     filenamify-url "^1.0.0"
     fs-extra "^8.1.0"
     globby "^6.1.0"
+
+giphy-api@^2.0.1:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/giphy-api/-/giphy-api-2.0.2.tgz#458b8733f50818b602c7e582a75a3b3a8d7680cb"
+  integrity sha512-vZaLQhgMF0mDQSNpqooe4Zqoe2dWGqVYhh7Ar6I41BRtcZtfupr9avT23IIPScKBYfb3qAfiKQRQyKgLi8Lcxw==
 
 glob-parent@^3.1.0:
   version "3.1.0"
